@@ -1,10 +1,8 @@
 ## Hi there, I'm Eduardo! 👋
-I'm a Specialist Software Engineer/Architect with 20+ years of experience, passionate about building scalable, resilient, and impactful systems. I've contributed to companies like XP Inc., Ci&T, Totvs, Ferrero, and Zup Innovation/StackSpot — and today, I also lead a real estate venture called **Incorporei**, blending technology, leadership, and product vision.
+I'm a Specialist Software Engineer/Architect with 20+ years of experience, passionate about building scalable, resilient, and impactful systems. I've contributed to companies like XP Inc., Ci&T, Totvs, Ferrero, and Zup Innovation/StackSpot.
 
 ### What I'm working on 👨‍💻
 - Currently creating a tech solutions @ Zup/StackSpot - [StackSpot](http://stackspot.com) <br>
-- Currently creating a better way to solve urban mobility - [Parkr](http://parkr.com.br) <br>
-- Currently building a Incorporei - [Incorporei](http://incorporei.com.br) <br>
 
 ### What drives me 💡
 - Designing solid, future-ready software architectures
@@ -21,7 +19,6 @@ I'm a Specialist Software Engineer/Architect with 20+ years of experience, passi
 
 ### Side projects & community 🌍
 - Former organizer of [@dotnetcuritiba](https://www.instagram.com/dotnetcuritiba)
-- Founder of **Incorporei**, a real estate developer focused on thoughtful, human-centered homes
 - Explorer of ideas where tech, business, and purpose intersect
 
 ### Let's connect 📫
